@@ -1,0 +1,1 @@
+./main -www . -certpath ~/mp-quic/mp-quic/example/ -bind 0.0.0.0:6121

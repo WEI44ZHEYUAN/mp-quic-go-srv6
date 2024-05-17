@@ -1,0 +1,15 @@
+PING 10.1.0.1 (10.1.0.1) from 10.0.0.1 : 56(84) bytes of data.
+
+--- 10.1.0.1 ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4103ms
+
+PING 10.1.0.1 (10.1.0.1) from 10.0.1.1 : 56(84) bytes of data.
+
+--- 10.1.0.1 ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4074ms
+
+PING 10.1.0.1 (10.1.0.1) from 10.0.2.1 : 56(84) bytes of data.
+
+--- 10.1.0.1 ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4075ms
+

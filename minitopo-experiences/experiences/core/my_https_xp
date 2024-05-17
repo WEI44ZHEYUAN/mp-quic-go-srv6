@@ -1,0 +1,11 @@
+xpType:quic
+clientPcap:yes
+serverPcap:no
+snaplenPcap:100
+sched:default
+congctrl:olia
+kpmc:fullmesh
+kpms:fullmesh
+earlyRetrans:3
+file:random
+file_size:2048
