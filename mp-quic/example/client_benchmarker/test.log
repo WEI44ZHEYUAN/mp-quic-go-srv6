@@ -1,130 +1,130 @@
-2024/06/07 18:48:05 GET https://[fc00:3::2]:6121/ramdisk/random
-2024/06/07 18:48:05 Starting new connection to fc00:3::2 ([::]:46780 -> [fc00:3::2]:6121), connectionID 42bec00c0a679ab2, version 512
-2024/06/07 18:48:05 stat cache_sni_fc00:3::2: no such file or directory
-2024/06/07 18:48:05 Queueing packet 0x7 for later decryption
-2024/06/07 18:50:02 Info for stream 5 of 42bec00c0a679ab2
-2024/06/07 18:50:02 Path 1: sent 260035 retrans 9 lost 8; rcv 510683
-2024/06/07 18:50:02 Path 3: sent 159000 retrans 1 lost 0; rcv 313223
-2024/06/07 18:50:02 Path 0: sent 7 retrans 0 lost 0; rcv 8
-2024/06/07 18:50:04 1m59.279506383s
+2024/06/13 16:10:41 GET https://[fc00:3::2]:6121/ramdisk/random
+2024/06/13 16:10:41 Starting new connection to fc00:3::2 ([::]:46332 -> [fc00:3::2]:6121), connectionID fd154f789330e4a4, version 512
+2024/06/13 16:10:41 stat cache_sni_fc00:3::2: no such file or directory
+2024/06/13 16:10:41 Queueing packet 0x7 for later decryption
+2024/06/13 16:12:38 Info for stream 5 of fd154f789330e4a4
+2024/06/13 16:12:38 Path 0: sent 7 retrans 0 lost 0; rcv 8
+2024/06/13 16:12:38 Path 1: sent 259586 retrans 0 lost 0; rcv 509883
+2024/06/13 16:12:38 Path 3: sent 159393 retrans 2 lost 0; rcv 313985
+2024/06/13 16:12:41 2m0.437288525s
 
-real	1m59.436s
-user	1m8.581s
-sys	1m4.004s
-2024/06/07 18:50:44 GET https://[fc00:3::2]:6121/ramdisk/random
-2024/06/07 18:50:44 Starting new connection to fc00:3::2 ([::]:51562 -> [fc00:3::2]:6121), connectionID 66e7591c3c26c0cf, version 512
-2024/06/07 18:50:44 stat cache_sni_fc00:3::2: no such file or directory
-2024/06/07 18:50:45 Queueing packet 0x7 for later decryption
-2024/06/07 18:52:46 Info for stream 5 of 66e7591c3c26c0cf
-2024/06/07 18:52:46 Path 0: sent 7 retrans 0 lost 0; rcv 8
-2024/06/07 18:52:46 Path 1: sent 252204 retrans 0 lost 0; rcv 495058
-2024/06/07 18:52:46 Path 3: sent 167282 retrans 1 lost 0; rcv 329204
-2024/06/07 18:52:48 2m3.863154703s
+real	2m0.594s
+user	1m0.298s
+sys	1m0.405s
+2024/06/13 16:13:21 GET https://[fc00:3::2]:6121/ramdisk/random
+2024/06/13 16:13:21 Starting new connection to fc00:3::2 ([::]:33936 -> [fc00:3::2]:6121), connectionID f4d98714ca61420e, version 512
+2024/06/13 16:13:21 stat cache_sni_fc00:3::2: no such file or directory
+2024/06/13 16:13:22 Queueing packet 0x7 for later decryption
+2024/06/13 16:15:18 Info for stream 5 of f4d98714ca61420e
+2024/06/13 16:15:18 Path 3: sent 254257 retrans 1 lost 0; rcv 508397
+2024/06/13 16:15:18 Path 0: sent 7 retrans 0 lost 0; rcv 8
+2024/06/13 16:15:18 Path 1: sent 164493 retrans 0 lost 0; rcv 315511
+2024/06/13 16:15:20 1m58.717416645s
 
-real	2m4.022s
-user	1m4.792s
-sys	1m4.758s
-2024/06/07 18:53:28 GET https://[fc00:3::2]:6121/ramdisk/random
-2024/06/07 18:53:28 Starting new connection to fc00:3::2 ([::]:53169 -> [fc00:3::2]:6121), connectionID 7f00328139d1276b, version 512
-2024/06/07 18:53:28 stat cache_sni_fc00:3::2: no such file or directory
-2024/06/07 18:53:29 Queueing packet 0x7 for later decryption
-2024/06/07 18:55:28 Info for stream 5 of 7f00328139d1276b
-2024/06/07 18:55:28 Path 1: sent 168919 retrans 0 lost 0; rcv 324068
-2024/06/07 18:55:28 Path 3: sent 250114 retrans 1 lost 0; rcv 500122
-2024/06/07 18:55:28 Path 0: sent 7 retrans 0 lost 0; rcv 8
-2024/06/07 18:55:30 2m1.468349326s
+real	1m58.875s
+user	1m3.667s
+sys	1m0.130s
+2024/06/13 16:16:00 GET https://[fc00:3::2]:6121/ramdisk/random
+2024/06/13 16:16:00 Starting new connection to fc00:3::2 ([::]:40745 -> [fc00:3::2]:6121), connectionID 6ee01dbe03ec05dc, version 512
+2024/06/13 16:16:00 stat cache_sni_fc00:3::2: no such file or directory
+2024/06/13 16:16:01 Queueing packet 0x7 for later decryption
+2024/06/13 16:18:00 Info for stream 5 of 6ee01dbe03ec05dc
+2024/06/13 16:18:00 Path 0: sent 7 retrans 0 lost 0; rcv 8
+2024/06/13 16:18:00 Path 1: sent 262373 retrans 2 lost 0; rcv 511400
+2024/06/13 16:18:00 Path 3: sent 161710 retrans 2 lost 0; rcv 314760
+2024/06/13 16:18:02 2m1.555892443s
 
-real	2m1.625s
-user	1m7.122s
-sys	1m2.529s
-2024/06/07 18:56:10 GET https://[fc00:3::2]:6121/ramdisk/random
-2024/06/07 18:56:10 Starting new connection to fc00:3::2 ([::]:43314 -> [fc00:3::2]:6121), connectionID 610831cdcc8ff3a9, version 512
-2024/06/07 18:56:10 stat cache_sni_fc00:3::2: no such file or directory
-2024/06/07 18:56:10 Queueing packet 0x7 for later decryption
-2024/06/07 18:58:07 Info for stream 5 of 610831cdcc8ff3a9
-2024/06/07 18:58:07 Path 0: sent 7 retrans 0 lost 0; rcv 8
-2024/06/07 18:58:07 Path 1: sent 156968 retrans 0 lost 0; rcv 313394
-2024/06/07 18:58:07 Path 3: sent 266940 retrans 1 lost 0; rcv 512901
-2024/06/07 18:58:09 1m58.516974999s
+real	2m1.709s
+user	1m6.064s
+sys	1m2.143s
+2024/06/13 16:18:42 GET https://[fc00:3::2]:6121/ramdisk/random
+2024/06/13 16:18:42 Starting new connection to fc00:3::2 ([::]:56499 -> [fc00:3::2]:6121), connectionID a86e6ea718383165, version 512
+2024/06/13 16:18:42 stat cache_sni_fc00:3::2: no such file or directory
+2024/06/13 16:18:42 Queueing packet 0x7 for later decryption
+2024/06/13 16:20:39 Info for stream 5 of a86e6ea718383165
+2024/06/13 16:20:39 Path 0: sent 7 retrans 0 lost 0; rcv 8
+2024/06/13 16:20:39 Path 1: sent 155785 retrans 0 lost 0; rcv 310924
+2024/06/13 16:20:39 Path 3: sent 268052 retrans 1 lost 0; rcv 515104
+2024/06/13 16:20:42 1m59.968390138s
 
-real	1m58.669s
-user	1m6.059s
-sys	1m4.093s
-2024/06/07 18:58:49 GET https://[fc00:3::2]:6121/ramdisk/random
-2024/06/07 18:58:49 Starting new connection to fc00:3::2 ([::]:34003 -> [fc00:3::2]:6121), connectionID 19d0920cc5340c3, version 512
-2024/06/07 18:58:49 stat cache_sni_fc00:3::2: no such file or directory
-2024/06/07 18:58:49 Queueing packet 0x7 for later decryption
-2024/06/07 19:00:47 Info for stream 5 of 19d0920cc5340c3
-2024/06/07 19:00:47 Path 1: sent 162294 retrans 0 lost 0; rcv 319475
-2024/06/07 19:00:47 Path 3: sent 256471 retrans 1 lost 0; rcv 504503
-2024/06/07 19:00:47 Path 0: sent 7 retrans 0 lost 0; rcv 8
-2024/06/07 19:00:50 2m1.100049448s
+real	2m0.122s
+user	1m7.590s
+sys	1m5.409s
+2024/06/13 16:21:22 GET https://[fc00:3::2]:6121/ramdisk/random
+2024/06/13 16:21:22 Starting new connection to fc00:3::2 ([::]:56573 -> [fc00:3::2]:6121), connectionID 6d179cab30d8f7f, version 512
+2024/06/13 16:21:22 stat cache_sni_fc00:3::2: no such file or directory
+2024/06/13 16:21:22 Queueing packet 0x7 for later decryption
+2024/06/13 16:23:19 Info for stream 5 of 6d179cab30d8f7f
+2024/06/13 16:23:19 Path 0: sent 7 retrans 0 lost 0; rcv 8
+2024/06/13 16:23:19 Path 1: sent 259380 retrans 0 lost 0; rcv 509255
+2024/06/13 16:23:19 Path 3: sent 159605 retrans 1 lost 0; rcv 314510
+2024/06/13 16:23:21 1m59.255182846s
 
-real	2m1.243s
-user	1m7.950s
-sys	1m3.961s
-2024/06/07 19:01:30 GET https://[fc00:3::2]:6121/ramdisk/random
-2024/06/07 19:01:30 Starting new connection to fc00:3::2 ([::]:51823 -> [fc00:3::2]:6121), connectionID d906ee55ed3a1a61, version 512
-2024/06/07 19:01:30 stat cache_sni_fc00:3::2: no such file or directory
-2024/06/07 19:01:30 Queueing packet 0x7 for later decryption
-2024/06/07 19:03:31 Info for stream 5 of d906ee55ed3a1a61
-2024/06/07 19:03:31 Path 0: sent 7 retrans 0 lost 0; rcv 8
-2024/06/07 19:03:31 Path 1: sent 251843 retrans 0 lost 0; rcv 494290
-2024/06/07 19:03:31 Path 3: sent 167693 retrans 1 lost 0; rcv 329948
-2024/06/07 19:03:34 2m3.538901245s
+real	1m59.417s
+user	1m7.732s
+sys	1m2.393s
+2024/06/13 16:24:02 GET https://[fc00:3::2]:6121/ramdisk/random
+2024/06/13 16:24:02 Starting new connection to fc00:3::2 ([::]:43739 -> [fc00:3::2]:6121), connectionID f6f5cb8d79a011f8, version 512
+2024/06/13 16:24:02 stat cache_sni_fc00:3::2: no such file or directory
+2024/06/13 16:24:02 Queueing packet 0x7 for later decryption
+2024/06/13 16:26:03 Info for stream 5 of f6f5cb8d79a011f8
+2024/06/13 16:26:03 Path 0: sent 7 retrans 0 lost 0; rcv 8
+2024/06/13 16:26:03 Path 1: sent 253705 retrans 1 lost 0; rcv 494764
+2024/06/13 16:26:03 Path 3: sent 169987 retrans 0 lost 0; rcv 331346
+2024/06/13 16:26:05 2m3.211392925s
 
-real	2m3.694s
-user	1m9.237s
-sys	1m3.514s
-2024/06/07 19:04:14 GET https://[fc00:3::2]:6121/ramdisk/random
-2024/06/07 19:04:14 Starting new connection to fc00:3::2 ([::]:39075 -> [fc00:3::2]:6121), connectionID f9e2da980cc4338b, version 512
-2024/06/07 19:04:14 stat cache_sni_fc00:3::2: no such file or directory
-2024/06/07 19:04:14 Queueing packet 0x7 for later decryption
-2024/06/07 19:06:13 Info for stream 5 of f9e2da980cc4338b
-2024/06/07 19:06:13 Path 0: sent 7 retrans 0 lost 0; rcv 8
-2024/06/07 19:06:13 Path 1: sent 169432 retrans 2 lost 0; rcv 325165
-2024/06/07 19:06:13 Path 3: sent 249668 retrans 0 lost 0; rcv 499185
-2024/06/07 19:06:16 2m2.28421817s
+real	2m3.373s
+user	1m0.550s
+sys	0m57.243s
+2024/06/13 16:26:45 GET https://[fc00:3::2]:6121/ramdisk/random
+2024/06/13 16:26:45 Starting new connection to fc00:3::2 ([::]:59608 -> [fc00:3::2]:6121), connectionID 870c525b935fd471, version 512
+2024/06/13 16:26:45 stat cache_sni_fc00:3::2: no such file or directory
+2024/06/13 16:26:45 Queueing packet 0x7 for later decryption
+2024/06/13 16:28:46 Info for stream 5 of 870c525b935fd471
+2024/06/13 16:28:46 Path 0: sent 7 retrans 0 lost 0; rcv 8
+2024/06/13 16:28:46 Path 1: sent 168857 retrans 0 lost 0; rcv 328813
+2024/06/13 16:28:46 Path 3: sent 254669 retrans 1 lost 0; rcv 497325
+2024/06/13 16:28:47 2m2.462900437s
 
-real	2m2.439s
-user	1m8.151s
-sys	1m3.459s
-2024/06/07 19:06:56 GET https://[fc00:3::2]:6121/ramdisk/random
-2024/06/07 19:06:56 Starting new connection to fc00:3::2 ([::]:41185 -> [fc00:3::2]:6121), connectionID 12ed97bca6adb090, version 512
-2024/06/07 19:06:56 stat cache_sni_fc00:3::2: no such file or directory
-2024/06/07 19:06:56 Queueing packet 0x7 for later decryption
-2024/06/07 19:08:53 Info for stream 5 of 12ed97bca6adb090
-2024/06/07 19:08:53 Path 3: sent 159972 retrans 1 lost 0; rcv 315199
-2024/06/07 19:08:53 Path 0: sent 7 retrans 0 lost 0; rcv 8
-2024/06/07 19:08:53 Path 1: sent 259069 retrans 0 lost 0; rcv 508600
-2024/06/07 19:08:56 1m59.476490752s
+real	2m2.615s
+user	1m4.080s
+sys	0m58.663s
+2024/06/13 16:29:28 GET https://[fc00:3::2]:6121/ramdisk/random
+2024/06/13 16:29:28 Starting new connection to fc00:3::2 ([::]:39742 -> [fc00:3::2]:6121), connectionID baf471fc7c5b836a, version 512
+2024/06/13 16:29:28 stat cache_sni_fc00:3::2: no such file or directory
+2024/06/13 16:29:28 Queueing packet 0x7 for later decryption
+2024/06/13 16:31:28 Info for stream 5 of baf471fc7c5b836a
+2024/06/13 16:31:28 Path 0: sent 7 retrans 0 lost 0; rcv 8
+2024/06/13 16:31:28 Path 1: sent 161906 retrans 1 lost 0; rcv 323074
+2024/06/13 16:31:28 Path 3: sent 261889 retrans 1 lost 0; rcv 503192
+2024/06/13 16:31:30 2m2.219296904s
 
-real	1m59.632s
-user	1m5.564s
-sys	1m2.756s
-2024/06/07 19:09:36 GET https://[fc00:3::2]:6121/ramdisk/random
-2024/06/07 19:09:36 Starting new connection to fc00:3::2 ([::]:43796 -> [fc00:3::2]:6121), connectionID 50d4b696edf5a949, version 512
-2024/06/07 19:09:36 stat cache_sni_fc00:3::2: no such file or directory
-2024/06/07 19:09:36 Queueing packet 0x7 for later decryption
-2024/06/07 19:11:39 Info for stream 5 of 50d4b696edf5a949
-2024/06/07 19:11:39 Path 0: sent 7 retrans 0 lost 0; rcv 8
-2024/06/07 19:11:39 Path 1: sent 167386 retrans 0 lost 0; rcv 334084
-2024/06/07 19:11:39 Path 3: sent 256062 retrans 1 lost 0; rcv 492075
-2024/06/07 19:11:41 2m5.289719661s
+real	2m2.383s
+user	1m5.192s
+sys	0m59.712s
+2024/06/13 16:32:10 GET https://[fc00:3::2]:6121/ramdisk/random
+2024/06/13 16:32:10 Starting new connection to fc00:3::2 ([::]:34690 -> [fc00:3::2]:6121), connectionID 7cdc81c24d537399, version 512
+2024/06/13 16:32:10 stat cache_sni_fc00:3::2: no such file or directory
+2024/06/13 16:32:10 Queueing packet 0x7 for later decryption
+2024/06/13 16:34:11 Info for stream 5 of 7cdc81c24d537399
+2024/06/13 16:34:11 Path 0: sent 7 retrans 0 lost 0; rcv 8
+2024/06/13 16:34:11 Path 1: sent 260223 retrans 1 lost 0; rcv 499256
+2024/06/13 16:34:11 Path 3: sent 163742 retrans 1 lost 0; rcv 327229
+2024/06/13 16:34:13 2m3.205454911s
 
-real	2m5.446s
-user	1m5.418s
-sys	1m3.924s
-2024/06/07 19:12:21 GET https://[fc00:3::2]:6121/ramdisk/random
-2024/06/07 19:12:21 Starting new connection to fc00:3::2 ([::]:36179 -> [fc00:3::2]:6121), connectionID ac86ee67b2009b91, version 512
-2024/06/07 19:12:21 stat cache_sni_fc00:3::2: no such file or directory
-2024/06/07 19:12:22 Queueing packet 0x7 for later decryption
-2024/06/07 19:14:18 Info for stream 5 of ac86ee67b2009b91
-2024/06/07 19:14:18 Path 0: sent 7 retrans 0 lost 0; rcv 8
-2024/06/07 19:14:18 Path 1: sent 159479 retrans 0 lost 0; rcv 314195
-2024/06/07 19:14:18 Path 3: sent 264358 retrans 1 lost 0; rcv 511833
-2024/06/07 19:14:20 1m58.990944706s
+real	2m3.367s
+user	1m8.013s
+sys	1m0.792s
+2024/06/13 16:34:53 GET https://[fc00:3::2]:6121/ramdisk/random
+2024/06/13 16:34:53 Starting new connection to fc00:3::2 ([::]:54245 -> [fc00:3::2]:6121), connectionID f59ad0751a7a1f55, version 512
+2024/06/13 16:34:53 stat cache_sni_fc00:3::2: no such file or directory
+2024/06/13 16:34:54 Queueing packet 0x7 for later decryption
+2024/06/13 16:36:50 Info for stream 5 of f59ad0751a7a1f55
+2024/06/13 16:36:50 Path 0: sent 7 retrans 0 lost 0; rcv 8
+2024/06/13 16:36:50 Path 1: sent 262237 retrans 0 lost 0; rcv 511038
+2024/06/13 16:36:50 Path 3: sent 161886 retrans 1 lost 0; rcv 315188
+2024/06/13 16:36:52 1m58.841227221s
 
-real	1m59.150s
-user	1m8.010s
-sys	1m2.426s
+real	1m58.994s
+user	1m3.458s
+sys	1m0.254s

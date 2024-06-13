@@ -10,3 +10,7 @@ for i in {1..10}; do
 done
 
 cat test.log | grep real | awk '{print $2}' >> result.log
+
+cd ..
+
+python3 mean.py >> client_benchmarker/result.log

@@ -188,11 +188,11 @@ class NetworkTopo( Topo ):
 
         self.addLink(r1, r7, intfName1="r1-eth7", intfName2="r7-eth1", bw = 50, delay = '10ms')
 
-        self.addLink(r7, r6, intfName1="r7-eth6", intfName2="r6-eth7", bw = 100, delay = '30ms')
+        self.addLink(r7, r6, intfName1="r7-eth6", intfName2="r6-eth7", bw = 80, delay = '30ms')
         
         self.addLink(r2, r4, intfName1="r2-eth4", intfName2="r4-eth2", bw = 50, delay = '10ms')
 
-        self.addLink(r4, r6, intfName1="r4-eth6", intfName2="r6-eth4", bw = 5 , delay = '100ms')
+        self.addLink(r4, r6, intfName1="r4-eth6", intfName2="r6-eth4", bw = 10 , delay = '100ms')
 
         self.addLink(r3, r5, intfName1="r3-eth5", intfName2="r5-eth3", bw = 50, delay = '10ms')        
 
