@@ -1,3 +1,5 @@
 random
 *.log
 main
+*.pyc
+__pycache__/
