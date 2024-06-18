@@ -192,7 +192,7 @@ class NetworkTopo( Topo ):
         
         self.addLink(r2, r4, intfName1="r2-eth4", intfName2="r4-eth2", bw = 50, delay = '10ms')
 
-        self.addLink(r4, r6, intfName1="r4-eth6", intfName2="r6-eth4", bw = 10 , delay = '100ms')
+        self.addLink(r4, r6, intfName1="r4-eth6", intfName2="r6-eth4", bw = 8, delay = '150ms')
 
         self.addLink(r3, r5, intfName1="r3-eth5", intfName2="r5-eth3", bw = 50, delay = '10ms')        
 
